@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7vr3FKq3NkvT2YSmSuJMx9H5zIRbzGhersxPiYXZvXmQzgIqp7h/4NDzyTHUDIQeSEhfdiAQakruHbf6kPO7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\33766\\Desktop\\Programmation\\C#\\OtakuEyes\\OtakuEyes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33766\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512"
+  ],
+  "logs": []
+}
