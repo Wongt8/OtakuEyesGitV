@@ -26,5 +26,5 @@ Donwload **Otaku Eyes** it will find it for you
 
 ----
 
-Feel free to give your opinion on the application and on what it can be improved
+Feel free to give your opinion about the application and on what it can be improved
 
